@@ -1,0 +1,9 @@
+# NAME: Claude AI
+# UPDATED: 2026-07-22
+# REPOSITORY: https://github.com/centvir/Surge
+# DESCRIPTION: Core Claude web, app, API, Console, assets, and user-content traffic.
+
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claudeusercontent.com
