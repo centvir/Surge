@@ -1,0 +1,21 @@
+# NAME: Google Gemini
+# UPDATED: 2026-07-22
+# REPOSITORY: https://github.com/centvir/Surge
+# DESCRIPTION: Gemini Apps, Google AI Studio, Gemini API, and Gemini Code Assist.
+
+# Gemini Apps and legacy Bard entry points
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,bard.google.com
+
+# Google AI for Developers and AI Studio
+DOMAIN,ai.google.dev
+DOMAIN,aistudio.google.com
+DOMAIN,makersuite.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+
+# Gemini API and Gemini Code Assist backends
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,proactivebackend-pa.googleapis.com
+DOMAIN,cloudaicompanion.googleapis.com
+DOMAIN,cloudcode-pa.googleapis.com
