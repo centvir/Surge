@@ -1,0 +1,10 @@
+# NAME: Grok
+# UPDATED: 2026-07-24
+# REPOSITORY: https://github.com/centvir/Surge
+# DESCRIPTION: Grok website/apps and xAI account, console, and API services.
+
+# Grok website, apps, and assets
+DOMAIN-SUFFIX,grok.com
+
+# xAI website, accounts, console, inference API, and management API
+DOMAIN-SUFFIX,x.ai
