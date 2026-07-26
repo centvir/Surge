@@ -1,0 +1,13 @@
+# NAME: Binance Mobile
+# UPDATED: 2026-07-26
+# REPOSITORY: https://github.com/centvir/Surge
+# DESCRIPTION: Binance Global mobile app, exchange APIs, market streams, and static assets.
+
+# Binance Global app, website, account, trading, REST, and WebSocket endpoints
+DOMAIN-SUFFIX,binance.com
+
+# Official public market-data API and streams
+DOMAIN-SUFFIX,binance.vision
+
+# Binance static resources used by the app and website
+DOMAIN-SUFFIX,bnbstatic.com
